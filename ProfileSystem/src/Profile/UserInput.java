@@ -1,4 +1,4 @@
-package Profile;
+package profile;
 
 import java.util.Scanner;
 
@@ -11,7 +11,8 @@ public class UserInput {
 
         System.out.print("Enter your name: ");
         String name = sc.nextLine();
-        sc.close();
+       
+         sc.close();
         return name;
     }
 }
