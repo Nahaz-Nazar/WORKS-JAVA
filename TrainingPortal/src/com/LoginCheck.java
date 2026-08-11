@@ -5,8 +5,6 @@ public class LoginCheck {
 
         
         String enteredUsername = "admin";
-=======
-        
         String enteredPassword = "java123";
 
         // Default credentials (Correct data)
