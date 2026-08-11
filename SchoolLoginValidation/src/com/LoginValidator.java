@@ -25,6 +25,7 @@ public class LoginValidator {
             System.out.println("Invalid credentials or role.");
         }
 
+        
         scanner.close();
     }
 }
