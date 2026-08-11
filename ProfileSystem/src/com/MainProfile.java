@@ -1,6 +1,4 @@
-package com;
-
-import Profile.UserInput;
+import profile.UserInput;
 import greeting.GreetingDisplay;
 
 public class MainProfile {
