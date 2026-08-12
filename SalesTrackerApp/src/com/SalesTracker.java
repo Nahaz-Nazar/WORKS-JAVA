@@ -3,7 +3,7 @@ package com;
 public class SalesTracker {
     public static void main(String[] args) {
         
-        int[][] salesData = {
+        int[][] salesData =  {
             {120, 80, 50},  // Day 1
             {95, 90, 45},   // Day 2
             {110, 85, 60},  // Day 3
