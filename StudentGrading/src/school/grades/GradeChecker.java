@@ -1,7 +1,7 @@
 package school.grades;
 
 public class GradeChecker {
-    public static void main(String[] args) {
+    public static void main(String[] args) {z
         // Stores the 5 scores in a single-dimension array
         int[] scores = {92, 85, 74, 48, 90};
 
