@@ -1,4 +1,6 @@
-public class GradeReport {
+package school.grades;
+
+public class GradeChecker {
     public static void main(String[] args) {
         // 1. Store marks in an array
         int[] marks = {78, 82, 91, 65, 34};
